@@ -1,22 +1,18 @@
+
+
 # UltrixPlay
 
 UltrixPlay is an all-in-one Flutter gaming application featuring 8 interactive arcade and puzzle mini-games, complete with custom audio effects and a responsive dashboard.
 
 ## Project preview
 <!-- Add your screenshots here. The tags below are placeholders matching the reference structure. -->
-<img width="1917" height="907" alt="1st" src="https://github.com/user-attachments/assets/08c08f78-8dd6-4336-8eda-2f4f5ce60ead" />
+<img width="2000" height="1414" alt="1" src="https://github.com/user-attachments/assets/20bae736-e50a-4263-a580-7b3bcd7d93ad" />
+
 
 ---
 
-<img width="1917" height="911" alt="2nd" src="https://github.com/user-attachments/assets/d0cf4597-9a32-431b-b719-74eb18412f05" />
 
----
-
-<img width="1917" height="911" alt="3rd" src="https://github.com/user-attachments/assets/6068d9e4-e7d6-45dc-ada4-ad061672c3a9" />
-
----
-
-<img width="1917" height="911" alt="4th" src="https://github.com/user-attachments/assets/1f9bf652-cc1d-4313-8c55-878dd59dab9c" />
+<img width="2000" height="1414" alt="2" src="https://github.com/user-attachments/assets/bfc1dd0a-4bad-42bd-9fc0-11b48b02b4aa" />
 
 ---
 
